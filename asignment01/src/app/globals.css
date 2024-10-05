@@ -1,0 +1,20 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+*{
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+}
+.intro {
+  display: flex;
+  margin-left: 120px;
+  margin-top: 120px;
+  color: goldenrod;
+  font-size: 35px;
+}
+.intro1{
+  margin-left: 400px;
+  margin-top: 50px;
+}
